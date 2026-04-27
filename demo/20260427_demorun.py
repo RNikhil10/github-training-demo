@@ -1,1 +1,1 @@
-print ("NYR")
+print ("")
